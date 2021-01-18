@@ -6,6 +6,7 @@ REB 	= 	"countries/rebels.txt"
 # Battle Royale Countries
 BRI = "countries/Brittany.txt"
 PRO = "countries/Provence.txt"
+PIC = "countries/Picardy.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
