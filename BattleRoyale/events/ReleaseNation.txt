@@ -52,6 +52,7 @@ country_event = {
 		FRA = {
 			release = BRI
 			release = ALD
+			release = PRO
 		}
 		PRU = {
 			release = LIT
@@ -119,6 +120,9 @@ country_event = {
 		}
 		PER = {
 			release = AZB
+		}
+		SAR = {
+			release = PRO
 		}
 	}
 }
