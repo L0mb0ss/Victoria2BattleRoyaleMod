@@ -1,0 +1,123 @@
+country_event = {
+	id = 10345
+	title = "Nations Released!"
+	desc = "Following tension on the international stage, all nations will be forced to release all oppressed peoples in their territory!"
+	picture = "Parade"
+	fire_only_once = yes
+	
+	trigger ={
+		year = 1836
+		ai = no
+	}
+	mean_time_to_happen = {
+        months = 1
+    }
+	option = {
+		name = "So be it."
+		set_global_flag = nationsHaveBeenReleased
+		SPA = {
+			release = CAT
+			release = CUB
+			release = PHI
+		}
+		ENG = {
+			release = NEN
+			release = NEW
+			release = QUE
+			release = SHI
+			release = SAF
+			release = MUG
+			release = AST
+			release = CAN
+			release = COL
+			release = GUA
+			release = HND
+			release = IRE
+			release = SCO
+		}
+		RUS = {
+			release = ARM
+			release = AZB
+			release = BYE
+			release = CRI
+			release = UKR
+			release = POL
+			release = ROM
+			release = EST
+			release = FIN
+			release = GEO
+			release = LAT
+			release = LIT
+		}
+		FRA = {
+			release = ALD
+		}
+		PRU = {
+			release = LIT
+			release = DZG
+			release = POL
+		}
+		AUS = {
+			release = BOH
+			release = CRO
+			release = LOM
+			release = RUT
+			release = SIE
+			release = TRE
+			release = SLV
+			release = SLO
+			release = VEN
+			release = HUN
+			release = POL
+		}
+		TUR = {
+			release = BOS
+			release = CYP
+			release = MON
+			release = ALB
+			release = BUL
+			release = GRE
+			release = SER
+			release = ROM
+			release = IRQ
+			release = ARM
+		}
+		USA = {
+			release = NEN
+			release = CHE
+		}
+		SWE = {
+			release = JAN
+			release = NOR
+		}
+		NET = {
+			release = JAV
+		}
+		BEL = {
+			release = WLL
+			release = FLA
+		}
+		MEX = {
+			release = CAL
+			release = DES
+			release = TEX
+		}
+		UCA = {
+			release = GUA
+			release = HON
+			release = ELS
+			release = NIC
+			release = COS
+		}
+		CLM = {
+			release = PNM
+		}
+		DEN = {
+			release = SCH
+			release = ICL
+		}
+		PER = {
+			release = AZB
+		}
+	}
+}

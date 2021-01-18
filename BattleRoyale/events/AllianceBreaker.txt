@@ -1,0 +1,64 @@
+country_event = {
+	id = 10273
+	title = "Alliance Broken!"
+	desc = "With the current global situation, having allies isn't suitable."
+	picture = "Parade"
+	
+	trigger = {
+		OR = {
+			num_of_allies = 1
+			any_greater_power = {
+				is_sphere_leader_of = THIS
+			}
+			overlord = {
+				exists = yes
+			}
+		}
+		
+		
+	}
+	mean_time_to_happen = {
+        months = 0.0000001
+    }
+	option = {
+		name = "Indeed."
+		any_country = {
+			limit = {
+				exists = yes
+				alliance_with = THIS
+			}
+			leave_alliance = THIS
+		}
+		any_country = {
+			limit = {
+				exists = yes
+				relation = { 
+					who = THIS 
+					value = -200
+				}
+			}
+			relation = { 
+				who = THIS 
+				value = -400 
+			}
+		}
+		any_country = {
+			limit = {
+				exists = yes
+				is_sphere_leader_of = THIS
+			}
+			diplomatic_influence = {
+				who = THIS
+				value = -20000
+			}
+		}
+		any_country = {
+			limit = {
+				is_our_vassal = THIS
+			}
+			overlord = {
+				release_vassal = THIS
+			}
+		}
+	}
+}
