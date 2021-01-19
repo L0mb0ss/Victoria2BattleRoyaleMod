@@ -10,6 +10,9 @@ PIC = "countries/Picardy.txt"
 SAV = "countries/Savoy.txt"
 GAL = "countries/Galicia.txt"
 FER = "countries/Far Eastern Republic.txt"
+WLS = "countries/Wales.txt"
+BSQ = "countries/Basque Country.txt"
+
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

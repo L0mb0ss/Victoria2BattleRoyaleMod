@@ -20,6 +20,7 @@ country_event = {
 			release = CUB
 			release = PHI
 			release = GAL
+			release = BSQ
 		}
 		ENG = {
 			release = NEN
@@ -35,6 +36,7 @@ country_event = {
 			release = HND
 			release = IRE
 			release = SCO
+			release = WLS
 		}
 		RUS = {
 			release = ARM

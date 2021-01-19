@@ -938,6 +938,8 @@ FER_democracy;Far Eastern Republic;République d'Extrême-Orient;Fernöstliche Repu
 FER_proletariat_dictatorship;Far Eastern Republic;République d'Extrême-Orient;Fernöstliche Republik;;República del Lejano Oriente;;;;;;;;;x;;;;
 FER_bourgeois_dictatorship;Far Eastern Republic;République d'Extrême-Orient;Fernöstliche Republik;;República del Lejano Oriente;;;;;;;;;x;;;;
 FER_fascist_dictatorship;Far Eastern Empire;Empire d'Extrême-Orient;Fernöstliches Reich;;Imperio del Lejano Oriente;;;;;;;;;x;;;;
+WLS;Wales;Pays de Galles;Wales;;Gales;;;;;;;;;x;;;;
+BSQ;Basque Country;Pays Basque;Baskenland;;País Vasco;;;;;;;;;x;;;;
 IRE;Ireland;Irlande;Irland;;Irlanda;;;;;;;;;x;;;;
 NET;Netherlands;Pays-Bas;Niederlande;;Holanda;;;;;;;;;x;;;;
 POR;Portugal;Portugal;Portugal;;Portugal;;;;;;;;;x;;;;
@@ -1074,6 +1076,8 @@ PIC_ADJ;Picard;Picard;Picard;;Picard;;;;;;;;;x;;;;
 SAV_ADJ;Savoyard;Savoyarde;Savoyarde;;Saboyano;;;;;;;;;x;;;;
 GAL_ADJ;Galician;Galicienne;Galizisch;;Gallega;;;;;;;;;x;;;;
 FER_ADJ;Far Eastern;Extrême-Orient;Fernöstlichen;;Lejano este;;;;;;;;;x;;;;
+WLS_ADJ;Welsh;Gallois;Walisisch;;Galesa;;;;;;;;;x;;;;
+BSQ_ADJ;Basque;Basque;Baskisch;;Vasca;;;;;;;;;x;;;;
 ITA_ADJ;Italian;Italien;Italienisch;;Italiana;;;;;;;;;x;;;;
 DEN_ADJ;Danish;Danois;Dänisch;;Danesa;;;;;;;;;x;;;;
 EST_ADJ;Estonian;Estonien;Estnisch;;Estonia;;;;;;;;;x;;;;
