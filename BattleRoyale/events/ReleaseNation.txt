@@ -53,6 +53,7 @@ country_event = {
 			release = BRI
 			release = ALD
 			release = PRO
+			release = PIC
 		}
 		PRU = {
 			release = LIT
