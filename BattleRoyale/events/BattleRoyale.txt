@@ -8,7 +8,7 @@ country_event = {
 		war = no
 	}
 	mean_time_to_happen = {
-        months = 6
+        months = 10
 		modifier = {
             factor = 100000000
             NOT = {
