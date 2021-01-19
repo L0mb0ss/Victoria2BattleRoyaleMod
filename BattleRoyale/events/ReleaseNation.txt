@@ -54,6 +54,7 @@ country_event = {
 			release = ALD
 			release = PRO
 			release = PIC
+			release = SAV
 		}
 		PRU = {
 			release = LIT
@@ -124,6 +125,7 @@ country_event = {
 		}
 		SAR = {
 			release = PRO
+			release = SAV
 		}
 	}
 }
