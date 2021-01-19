@@ -8,6 +8,8 @@ BRI = "countries/Brittany.txt"
 PRO = "countries/Provence.txt"
 PIC = "countries/Picardy.txt"
 SAV = "countries/Savoy.txt"
+GAL = "countries/Galicia.txt"
+FER = "countries/Far Eastern Republic.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

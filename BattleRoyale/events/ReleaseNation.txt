@@ -19,6 +19,7 @@ country_event = {
 			release = CAT
 			release = CUB
 			release = PHI
+			release = GAL
 		}
 		ENG = {
 			release = NEN
@@ -48,6 +49,7 @@ country_event = {
 			release = GEO
 			release = LAT
 			release = LIT
+			release = FER
 		}
 		FRA = {
 			release = BRI
