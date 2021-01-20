@@ -1,16 +1,17 @@
 country_event = {
 	id = 10345
-	title = "Nations Released!"
-	desc = "Following tension on the international stage, all nations will be forced to release all oppressed peoples in their territory!"
-	picture = "Parade"
+	title = "Nations become independent!"
+	desc = "EVTDESC10345"
+	picture = "meeting3"
 	fire_only_once = yes
 	
 	trigger ={
 		year = 1836
 		ai = no
+		has_country_flag = lorePtThree
 	}
 	mean_time_to_happen = {
-        months = 1
+        months = 2
     }
 	option = {
 		name = "So be it."

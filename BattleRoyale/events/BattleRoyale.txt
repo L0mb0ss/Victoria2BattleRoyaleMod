@@ -1,20 +1,15 @@
 country_event = {
 	id = 10923
-	title = "War declared by our neighbour!"
-	desc = "With the Battle Royale engulfing the globe, our mighty nation has been attacked by our neighbour!"
+	title = "Attacked by our neighbour!"
+	desc = "EVTDESC10923"
 	picture = "Parade"
 	
 	trigger ={
 		war = no
+		has_global_flag = battleRoyaleHasBegun
 	}
 	mean_time_to_happen = {
         months = 10
-		modifier = {
-            factor = 100000000
-            NOT = {
-				year = 1840
-			}
-        }
     }
 	option = {
 		name = "To War!"

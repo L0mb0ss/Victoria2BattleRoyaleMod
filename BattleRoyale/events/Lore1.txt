@@ -1,0 +1,21 @@
+country_event = {
+	id = 13226
+	title = "Lore, Part One."
+	desc = "EVTDESC13226"
+	trigger ={
+		year = 1836
+		ai = no
+		NOT = {
+			has_country_flag = lorePtOne
+		}
+	}
+	
+	mean_time_to_happen = {
+        months = 1
+    }
+	
+	option = {
+		name = "Interesting, indeed."
+		set_country_flag = lorePtOne
+	}
+}

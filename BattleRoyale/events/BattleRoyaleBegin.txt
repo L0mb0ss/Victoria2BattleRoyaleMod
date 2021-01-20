@@ -1,0 +1,23 @@
+country_event = {
+	id = 13229
+	title = "Battle Royale Begins!"
+	desc = "EVTDESC13229"
+	
+	trigger ={
+		year = 1845
+		ai = no
+		has_global_flag = nationsHaveBeenReleased
+		NOT = {
+			has_global_flag = battleRoyaleHasBegun
+		}
+	}
+	
+	mean_time_to_happen = {
+        months = 1
+    }
+	
+	option = {
+		name = "It has begun."
+		set_global_flag = battleRoyaleHasBegun
+	}
+}

@@ -1,7 +1,7 @@
 country_event = {
 	id = 12218
-	title = "War declared upon our neighbour!"
-	desc = "With the Battle Royale engulfing the globe, our mighty nation has attacked our neighbour!"
+	title = "War with our neighbour!"
+	desc = "EVTDESC12218"
 	picture = "Parade"
 	is_triggered_only = yes
 	

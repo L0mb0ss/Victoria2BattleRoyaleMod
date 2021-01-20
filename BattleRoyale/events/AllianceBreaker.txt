@@ -1,8 +1,8 @@
 country_event = {
 	id = 10273
-	title = "Alliance Broken!"
-	desc = "With the current global situation, having allies isn't suitable."
-	picture = "Parade"
+	title = "Alliances Broken!"
+	desc = "EVTDESC10273"
+	picture = "Administration"
 	
 	trigger = {
 		OR = {
